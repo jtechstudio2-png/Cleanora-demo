@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://jtechstudio2-png.github.io/Cleanora-demo/sitemap.xml
